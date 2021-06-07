@@ -1,0 +1,6 @@
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\bin\Debug\Ap_Test_Ex2.exe
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\bin\Debug\Ap_Test_Ex2.pdb
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\obj\Debug\Ap-Test-Ex2.csprojAssemblyReference.cache
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\obj\Debug\Ap-Test-Ex2.csproj.CoreCompileInputs.cache
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\obj\Debug\Ap_Test_Ex2.exe
+C:\Users\nvt0412\RiderProjects\Ap-Test-Ex2\Ap-Test-Ex2\obj\Debug\Ap_Test_Ex2.pdb
